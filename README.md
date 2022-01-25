@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bijay-chaudhary-0
 - 👀 I’m interested in programming, musical instrunments.
-- 🌱 I’m currently learning Software Testing.
-- ⚡ I'm skilled at cypress.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Currently learning Software Testing.
+- ⚡ Skilled at cypress.
+- 💞️ I’m looking to collaborate on . . .
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/bijay-chaudhary-01/)
 - 📖 I also have knowledge on Java.
 - 😅 Fun fact ... I can start a convesation in Espanol.  
